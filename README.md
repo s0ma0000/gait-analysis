@@ -38,13 +38,14 @@ This project utilizes Python to analyze walking data, focusing on metrics such a
 
 ## Videos
 
-### Knee Angles Animation
-
-![knee_angles_animation2.mp4](https://github.com/s0ma0000/gait-analysis/raw/main/dataset/knee_angles_animation2.mp4)
-
-### Output Taku
-
-![output_taku.mp4](https://github.com/s0ma0000/gait-analysis/raw/main/dataset/output_taku.mp4)
+<p align="center">
+  <a href="https://github.com/s0ma0000/gait-analysis/raw/main/dataset/knee_angles_animation2.mp4">
+    <img src="https://via.placeholder.com/400x250?text=Knee+Angles+Animation" width="400" height="250">
+  </a>
+  <a href="https://github.com/s0ma0000/gait-analysis/raw/main/dataset/output_taku.mp4">
+    <img src="https://via.placeholder.com/400x250?text=Output+Taku" width="400" height="250">
+  </a>
+</p>
 
 ## Author
 
