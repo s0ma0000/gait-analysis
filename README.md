@@ -40,7 +40,7 @@ This project utilizes Python to analyze walking data, focusing on metrics such a
 
 ### Knee Angles Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/s0ma0000/gait-analysis/main/dataset/knee_angles_animation2.gif" width="400" height="250">
+  <img src="https://raw.githubusercontent.com/s0ma0000/gait-analysis/main/knee_angles_animation2.gif" width="400" height="250">
 </p>
 [Watch the full video](https://raw.githubusercontent.com/s0ma0000/gait-analysis/main/dataset/knee_angles_animation2.mp4)
 
