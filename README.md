@@ -36,6 +36,16 @@ This project utilizes Python to analyze walking data, focusing on metrics such a
 - **symmetry.py**: Analysis of walking symmetry.
 - **walking_cycle.py**: Analysis of the walking cycle phases.
 
+## Videos
+
+### Knee Angles Animation
+
+![knee_angles_animation2.mp4](https://github.com/s0ma0000/gait-analysis/raw/main/dataset/knee_angles_animation2.mp4)
+
+### Output Taku
+
+![output_taku.mp4](https://github.com/s0ma0000/gait-analysis/raw/main/dataset/output_taku.mp4)
+
 ## Author
 
 [twitter](https://twitter.com/kakedasiseinen)
@@ -43,3 +53,4 @@ This project utilizes Python to analyze walking data, focusing on metrics such a
 ## 🐶 Contribution
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
